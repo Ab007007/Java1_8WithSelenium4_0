@@ -1,0 +1,5 @@
+WinWaitActive("Open")
+Sleep(2000)
+ControlSetText("Open","","Edit1","D:\Synechron_04_07_Selenium\Notes.docx")
+Sleep(2000)
+ControlClick("Open","&Open","Button1")

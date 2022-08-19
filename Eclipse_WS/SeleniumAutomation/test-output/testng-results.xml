@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19081" started-at="2022-08-19T10:14:13Z" finished-at="2022-08-19T10:14:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19081" started-at="2022-08-19T10:14:13Z" finished-at="2022-08-19T10:14:33Z">
+      <class name="com.synechron.testng.test.FormFillUsingPOMGrid">
+        <test-method status="PASS" signature="initReports()[pri:0, instance:com.synechron.testng.test.FormFillUsingPOMGrid@3b0143d3]" name="initReports" is-config="true" duration-ms="113" started-at="2022-08-19T10:14:13Z" finished-at="2022-08-19T10:14:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initReports -->
+        <test-method status="PASS" signature="createDriver()[pri:0, instance:com.synechron.testng.test.FormFillUsingPOMGrid@3b0143d3]" name="createDriver" is-config="true" duration-ms="7582" started-at="2022-08-19T10:14:13Z" finished-at="2022-08-19T10:14:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createDriver -->
+        <test-method status="PASS" signature="initializePageProperties()[pri:0, instance:com.synechron.testng.test.FormFillUsingPOMGrid@3b0143d3]" name="initializePageProperties" is-config="true" duration-ms="24" started-at="2022-08-19T10:14:21Z" finished-at="2022-08-19T10:14:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializePageProperties -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.synechron.testng.test.FormFillUsingPOMGrid@3b0143d3]" name="launch" is-config="true" duration-ms="2183" started-at="2022-08-19T10:14:21Z" finished-at="2022-08-19T10:14:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="fillForm(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.synechron.testng.test.FormFillUsingPOMGrid@3b0143d3]" name="fillForm" duration-ms="4110" started-at="2022-08-19T10:14:23Z" data-provider="testData" finished-at="2022-08-19T10:14:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FN1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[LN1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[JT1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillForm -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.synechron.testng.test.FormFillUsingPOMGrid@3b0143d3]" name="launch" is-config="true" duration-ms="292" started-at="2022-08-19T10:14:27Z" finished-at="2022-08-19T10:14:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="fillForm(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.synechron.testng.test.FormFillUsingPOMGrid@3b0143d3]" name="fillForm" duration-ms="1205" started-at="2022-08-19T10:14:28Z" data-provider="testData" finished-at="2022-08-19T10:14:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FN2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[LN2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[JT3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillForm -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.synechron.testng.test.FormFillUsingPOMGrid@3b0143d3]" name="launch" is-config="true" duration-ms="277" started-at="2022-08-19T10:14:29Z" finished-at="2022-08-19T10:14:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="fillForm(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.synechron.testng.test.FormFillUsingPOMGrid@3b0143d3]" name="fillForm" duration-ms="1464" started-at="2022-08-19T10:14:29Z" data-provider="testData" finished-at="2022-08-19T10:14:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FN3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[LN3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[JT4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillForm -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.synechron.testng.test.FormFillUsingPOMGrid@3b0143d3]" name="launch" is-config="true" duration-ms="283" started-at="2022-08-19T10:14:31Z" finished-at="2022-08-19T10:14:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="fillForm(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.synechron.testng.test.FormFillUsingPOMGrid@3b0143d3]" name="fillForm" duration-ms="689" started-at="2022-08-19T10:14:31Z" data-provider="testData" finished-at="2022-08-19T10:14:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FN4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[LN4]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[JT6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillForm -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.synechron.testng.test.FormFillUsingPOMGrid@3b0143d3]" name="launch" is-config="true" duration-ms="278" started-at="2022-08-19T10:14:32Z" finished-at="2022-08-19T10:14:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="fillForm(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.synechron.testng.test.FormFillUsingPOMGrid@3b0143d3]" name="fillForm" duration-ms="666" started-at="2022-08-19T10:14:32Z" data-provider="testData" finished-at="2022-08-19T10:14:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FN5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[LN5]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[JT5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillForm -->
+        <test-method status="PASS" signature="saveReports()[pri:0, instance:com.synechron.testng.test.FormFillUsingPOMGrid@3b0143d3]" name="saveReports" is-config="true" duration-ms="210" started-at="2022-08-19T10:14:33Z" finished-at="2022-08-19T10:14:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- saveReports -->
+      </class> <!-- com.synechron.testng.test.FormFillUsingPOMGrid -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
